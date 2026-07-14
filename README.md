@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=aadyasingh2005&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
@@ -65,7 +65,7 @@ class Aadya:
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I enjoy building software that combines intelligent AI systems with polished user experiences.
 
@@ -75,7 +75,7 @@ Currently focused on building production-ready AI systems while exploring distri
 
 ---
 
-# ⚡ Current Status
+# Current Status
 
 ```text
 🎓 B.E CSE @ MSRIT
@@ -99,7 +99,7 @@ Currently focused on building production-ready AI systems while exploring distri
 
 ---
 
-# 🧠 Areas of Interest
+# Areas of Interest
 
 ```text
 Artificial Intelligence
@@ -145,9 +145,9 @@ Aspire Fintech
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
-## 🛡️ GuardAI
+## GuardAI
 
 Enterprise-grade deepfake detection platform combining multimodal AI, explainable vision models, and digital provenance to verify the authenticity of images and videos.
 
@@ -155,7 +155,7 @@ Enterprise-grade deepfake detection platform combining multimodal AI, explainabl
 
 ---
 
-## ☁️ MigrAIne
+## MigrAIne
 
 Agentic cloud migration platform that streamlines AWS-to-GCP transitions through automated architecture analysis, IaC generation, and intelligent migration planning.
 
@@ -163,7 +163,7 @@ Agentic cloud migration platform that streamlines AWS-to-GCP transitions through
 
 ---
 
-## 🧠 debAIte
+## debAIte
 
 Research-driven multi-agent debate engine that retrieves evidence, constructs opposing arguments, critiques reasoning, and synthesizes nuanced conclusions using RAG.
 
@@ -171,7 +171,7 @@ Research-driven multi-agent debate engine that retrieves evidence, constructs op
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 🏅 Inceptrix National Level Hackathon ~ Second Runner-up
 
@@ -185,7 +185,7 @@ Research-driven multi-agent debate engine that retrieves evidence, constructs op
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -205,7 +205,7 @@ Research-driven multi-agent debate engine that retrieves evidence, constructs op
 
 ---
 
-# 📊 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -215,17 +215,17 @@ Research-driven multi-agent debate engine that retrieves evidence, constructs op
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/aadyasingh2005/aadyasingh2005/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/aadyasingh2005/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 - Distributed Systems
 - Kubernetes
@@ -235,13 +235,13 @@ Research-driven multi-agent debate engine that retrieves evidence, constructs op
 
 ---
 
-# 🎵 Outside Tech
+# Outside Tech
 
 You'll find me reading in a corner, singing in a rock band, riding my motorcycle, out on a run or in the gym, playing a sport, or just eating a lot of food. 
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect!
 
 <p align="center">
 
