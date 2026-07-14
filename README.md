@@ -217,11 +217,11 @@ AI-powered plant disease detection mobile application.
 
 ---
 
-# Contribution Graph
+# Contribution Snake
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyasingh2005&theme=tokyo-night&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/aadyasingh2005/aadyasingh2005/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
