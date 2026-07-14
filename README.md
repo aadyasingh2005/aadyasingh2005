@@ -171,6 +171,22 @@ Research-driven multi-agent debate engine that retrieves evidence, constructs op
 
 ---
 
+## 🌍 EvacPlan
+
+Real-time disaster evacuation platform using intelligent routing and crowd simulation.
+
+**React • FastAPI • WebAssembly • Leaflet**
+
+---
+
+## 🌱 CropSentry
+
+AI-powered plant disease detection mobile application.
+
+**React Native • TensorFlow • FastAPI**
+
+---
+
 # Achievements
 
 🏅 Inceptrix National Level Hackathon ~ Second Runner-up
@@ -210,16 +226,6 @@ Research-driven multi-agent debate engine that retrieves evidence, constructs op
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadyasingh2005&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/aadyasingh2005/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
