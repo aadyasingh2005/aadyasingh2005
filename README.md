@@ -167,7 +167,7 @@ Research-driven multi-agent debate engine that retrieves evidence, constructs op
 
 ---
 
-## 🌍 EvacPlan
+## EvacPlan
 
 Real-time disaster evacuation platform using intelligent routing and crowd simulation.
 
@@ -175,7 +175,7 @@ Real-time disaster evacuation platform using intelligent routing and crowd simul
 
 ---
 
-## 🌱 CropSentry
+## CropSentry
 
 AI-powered plant disease detection mobile application.
 
