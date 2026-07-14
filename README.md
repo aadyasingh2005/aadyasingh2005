@@ -20,21 +20,17 @@
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=aadyasingh2005&style=for-the-badge&color=blueviolet"/>
-
 </p>
 
 ---
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+products.;Turning+ideas+into+production+systems.;Computer+Science+Student+@+MSRIT.;Founding+Team+Member+at+an+AI+Startup.;Future+MS+Student.;Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+products.;Multiple+Hackathon+Winner;Computer+Science+Student+@+MSRIT.;Always+learning.)](https://git.io/typing-svg)
 
 </p>
 
 ---
-
-# 👋 Hello!
 
 ```python
 class Aadya:
