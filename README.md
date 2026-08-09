@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Aadya&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Product%20Builder%20•%20Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Aadya&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Systems%20Builder%20•%20Full%20Stack%20Developer&descAlignY=58"/>
 
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-powered+products.;Multiple+Hackathon+Winner;Computer+Science+Student+@+MSRIT.;Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=22\&duration=3500\&pause=800\&color=58A6FF\&center=true\&vCenter=true\&width=900\&lines=Building+systems+that+solve+real-world+problems.;Full+Stack+Development+%7C+Backend+Engineering+%7C+Cloud;Multiple+Hackathon+Winner;Computer+Science+Student+%40+MSRIT.;Always+learning.)](https://git.io/typing-svg)
 
 </p>
 
@@ -42,13 +42,14 @@ class Aadya:
         self.cgpa = 9.45
 
         self.interests = [
+            "System Design",
+            "Backend Engineering",
+            "Full Stack Development",
+            "Cloud Computing",
+            "Distributed Systems",
             "Artificial Intelligence",
             "Machine Learning",
-            "Agentic AI",
-            "Computer Vision",
-            "System Design",
-            "Cloud Computing",
-            "Full Stack Development"
+            "Computer Vision"
         ]
 
         self.currently_building = [
@@ -63,11 +64,11 @@ class Aadya:
 
 # About Me
 
-I enjoy building software that combines intelligent AI systems with polished user experiences.
+I enjoy building software from the ground up — designing systems, developing backend services, building intuitive interfaces, and connecting everything into reliable end-to-end products.
 
-From multi-agent workflows and conversational AI to computer vision and full-stack applications, I love taking products from idea to deployment.
+My interests span **full-stack development, backend engineering, system design, cloud infrastructure, and distributed systems**, with AI and machine learning as powerful tools I use to solve complex problems.
 
-Currently focused on building production-ready AI systems while exploring distributed systems, cloud infrastructure, and scalable software architecture.
+I enjoy taking products from an initial idea through architecture, implementation, integration, testing, and deployment, while continuously learning how to build systems that are scalable, maintainable, and useful.
 
 ---
 
@@ -80,7 +81,11 @@ Currently focused on building production-ready AI systems while exploring distri
 
 🏆 Multiple Hackathon Winner
 
-🎯 Target: Learn and learn more
+💻 Building Full Stack & Cloud-Based Systems
+
+📚 Exploring Distributed Systems & System Design
+
+🎯 Target: Learn and build more
 ```
 
 ---
@@ -98,19 +103,23 @@ Currently focused on building production-ready AI systems while exploring distri
 # Areas of Interest
 
 ```text
-Artificial Intelligence
-
-Agentic AI
-
-Computer Vision
+System Design
 
 Backend Engineering
 
-Cloud Computing
-
 Full Stack Development
 
+Distributed Systems
+
+Cloud Computing
+
 Mobile Development
+
+Artificial Intelligence
+
+Machine Learning
+
+Computer Vision
 ```
 
 ---
@@ -121,7 +130,7 @@ Mobile Development
 
 Dentsu Global Services
 
-> Building an Agentic AI platform for simplifying the SDLC and creating personalized user experiences
+> Building an enterprise platform for simplifying the software development lifecycle and creating personalized user experiences
 
 ---
 
@@ -129,7 +138,7 @@ Dentsu Global Services
 
 VoicePlug
 
-> Building conversational AI systems for WhatsApp commerce
+> Building full-stack conversational commerce systems and integrating APIs, backend services, and user-facing applications for WhatsApp-based ordering
 
 ---
 
@@ -137,11 +146,11 @@ VoicePlug
 
 Aspire Fintech
 
-> AI-powered NBFC platform  and marketing solutions
+> Building full-stack financial technology applications and integrating AI-powered features into production-oriented mobile experiences
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 ## GuardAI
 
@@ -183,7 +192,7 @@ AI-powered plant disease detection mobile application.
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
 🏅 Inceptrix National Level Hackathon ~ Second Runner-up
 
@@ -197,7 +206,7 @@ AI-powered plant disease detection mobile application.
 
 ---
 
-# GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -217,7 +226,7 @@ AI-powered plant disease detection mobile application.
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -227,23 +236,24 @@ AI-powered plant disease detection mobile application.
 
 ---
 
-# Currently Learning
+# 📚 Currently Learning
 
-- Distributed Systems
-- Kubernetes
-- Multi-Agent AI
-- System Design
-- Cloud Infrastructure
-
----
-
-# Outside Tech
-
-You'll find me reading in a corner, singing in a rock band, riding my motorcycle, out on a run or in the gym, playing a sport, or just eating a lot of food. 
+* Distributed Systems
+* Kubernetes
+* System Design
+* Cloud Infrastructure
+* Backend Architecture
+* Multi-Agent AI
 
 ---
 
-# Let's Connect!
+# 🌐 Outside Tech
+
+You'll find me reading in a corner, singing in a rock band, riding my motorcycle, out on a run or in the gym, playing a sport, or just eating a lot of food.
+
+---
+
+# 🤝 Let's Connect!
 
 <p align="center">
 
