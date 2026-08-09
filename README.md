@@ -39,7 +39,7 @@ class Aadya:
 
         self.education = "B.E Computer Science @ MSRIT"
 
-        self.cgpa = 9.45
+        self.cgpa = 9.48
 
         self.interests = [
             "System Design",
@@ -202,7 +202,7 @@ AI-powered plant disease detection mobile application.
 
 🏅 FantomCode '25 Hackathon ~ Top 5 teams
 
-🎓 9.45 CGPA
+🎓 9.48 CGPA
 
 ---
 
